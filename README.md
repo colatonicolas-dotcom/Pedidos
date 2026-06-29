@@ -1,8 +1,8 @@
 # Pedidos
 
-Sistema de gestion de pedidos para Hamburgo.
+Sistema de gestión de pedidos para Hamburgo.
 
-## Instalacion
+## Instalación
 
 1. Clona el repositorio
 2. Instala las dependencias
@@ -10,8 +10,8 @@ Sistema de gestion de pedidos para Hamburgo.
 
 ## Uso
 
-Accede a la aplicacion en `http://localhost:3000`.
+Accede a la aplicación en `http://localhost:3000`.
 
-## Contribucion
+## Contribución
 
-Los pull request son bienvenidos. Por favor abre un issue primero para discutir el cambio que deseas realizar.
+Los pull requests son bienvenidos. Por favor abre un issue primero para discutir el cambio que deseas realizar.
